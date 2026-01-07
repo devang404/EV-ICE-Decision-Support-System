@@ -1,6 +1,6 @@
 # EV-ICE-Decision-Support-System
 
-Decision support system to compare EV vs ICE vehicles using cost, CO₂, and infrastructure analysis.
+Our system uses deterministic computation for cost and emissions, unsupervised ML for pattern discovery, and AI for explanation — not prediction
 
 
 
