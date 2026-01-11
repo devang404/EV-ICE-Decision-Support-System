@@ -1,0 +1,25 @@
+State,City,Vehicle Class,Energy Charge (₹/kWh),Cost_per_km_₹,CO2_per_km_kg,Maintenance Cost (₹/km),Charging Stations Count
+Gujarat,Ahmedabad,2W,4.68,92.33,1.513,0.7,2.0
+Gujarat,Ahmedabad,3W,4.68,92.33,1.513,1.05,2.0
+Gujarat,Ahmedabad,4W,4.68,92.33,1.513,2.15,2.0
+Karnataka,Bengaluru,2W,4.68,94.43,1.513,0.7,5.6
+Karnataka,Bengaluru,3W,4.68,94.43,1.513,1.05,5.6
+Karnataka,Bengaluru,4W,4.68,94.43,1.513,2.15,5.6
+Madhya Pradesh,Bhopal,2W,4.68,99.175,1.513,0.7,7.0
+Madhya Pradesh,Bhopal,3W,4.68,99.175,1.513,1.05,7.0
+Madhya Pradesh,Bhopal,4W,4.68,99.175,1.513,2.15,7.0
+Maharashtra,Pune,2W,8.8,97.225,1.513,0.7,1.0
+Maharashtra,Pune,3W,8.8,97.225,1.513,1.05,1.0
+Maharashtra,Pune,4W,8.8,97.225,1.513,2.15,1.0
+Rajasthan,Jaipur,2W,4.68,97.465,1.513,0.7,3.0
+Rajasthan,Jaipur,3W,4.68,97.465,1.513,1.05,3.0
+Rajasthan,Jaipur,4W,4.68,97.465,1.513,2.15,3.0
+Tamil Nadu,Chennai,2W,4.68,96.67,1.513,0.7,3.3333
+Tamil Nadu,Chennai,3W,4.68,96.67,1.513,1.05,3.3333
+Tamil Nadu,Chennai,4W,4.68,96.67,1.513,2.15,3.3333
+Telangana,Hyderabad,2W,4.68,101.555,1.513,0.7,1.0
+Telangana,Hyderabad,3W,4.68,101.555,1.513,1.05,1.0
+Telangana,Hyderabad,4W,4.68,101.555,1.513,2.15,1.0
+Uttar Pradesh,Lucknow,2W,4.68,91.245,1.513,0.7,1.0
+Uttar Pradesh,Lucknow,3W,4.68,91.245,1.513,1.05,1.0
+Uttar Pradesh,Lucknow,4W,4.68,91.245,1.513,2.15,1.0
