@@ -1,0 +1,5 @@
+project_id = "wbvdsmkgdsgrjicvdzad"
+
+[functions.scenario-chat]
+enabled = true
+verify_jwt = false

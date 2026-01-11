@@ -1,0 +1,61 @@
+State,City,Vehicle Class,Powertrain,Energy Charge (₹/kWh),Fixed Charge,Tariff Year,Voltage Level,Fuel Type,Price (₹/litre),Snapshot Date,Charging Stations Count,Implementing Agency,Access Type,Grid Emission Factor (kg CO2/kWh),CO2_per_km_kg,Maintenance Cost (₹/km),Replacement Cost (₹),Replacement Cycle (Years),Cost_per_km_₹,Location_Level,Distribution Company,Consumer Category
+Delhi,New Delhi,2W,ICE,3.0,20 Rs./kW/month,2020-21,LT,Petrol,94.72,2026-01-06,0.0,State Agency,Public,0.716,2.31,1.2,15000,7,94.72,City,State Discom,Domestic
+Delhi,New Delhi,3W,ICE,3.0,20 Rs./kW/month,2020-21,LT,Petrol,94.72,2026-01-06,0.0,State Agency,Public,0.716,2.31,1.8,25000,7,94.72,City,State Discom,Domestic
+Delhi,New Delhi,4W,ICE,3.0,20 Rs./kW/month,2020-21,LT,Petrol,94.72,2026-01-06,0.0,State Agency,Public,0.716,2.31,3.5,75000,10,94.72,City,State Discom,Domestic
+Gujarat,Ahmedabad,2W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,94.49,2026-01-06,3.0,HPCL,Public,0.716,0.716,0.2,40000,5,105.27361904761905,City,State Discom,Domestic
+Gujarat,Ahmedabad,2W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,94.49,2026-01-06,3.0,HPCL,Public,0.716,2.31,1.2,15000,7,94.49,City,State Discom,Domestic
+Gujarat,Ahmedabad,3W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,94.49,2026-01-06,3.0,HPCL,Public,0.716,0.716,0.3,140000,5,105.27361904761905,City,State Discom,Domestic
+Gujarat,Ahmedabad,3W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,94.49,2026-01-06,3.0,HPCL,Public,0.716,2.31,1.8,25000,7,94.49,City,State Discom,Domestic
+Gujarat,Ahmedabad,4W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,94.49,2026-01-06,3.0,HPCL,Public,0.716,0.716,0.8,400000,8,105.27361904761905,City,State Discom,Domestic
+Gujarat,Ahmedabad,4W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,94.49,2026-01-06,3.0,HPCL,Public,0.716,2.31,3.5,75000,10,94.49,City,State Discom,Domestic
+Karnataka,Bengaluru,2W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,99.84,2026-01-06,20.0,BPCL,Public,0.716,0.716,0.2,40000,5,105.27361904761905,City,State Discom,Domestic
+Karnataka,Bengaluru,2W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,99.84,2026-01-06,20.0,BPCL,Public,0.716,2.31,1.2,15000,7,99.84,City,State Discom,Domestic
+Karnataka,Bengaluru,3W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,99.84,2026-01-06,20.0,BPCL,Public,0.716,0.716,0.3,140000,5,105.27361904761905,City,State Discom,Domestic
+Karnataka,Bengaluru,3W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,99.84,2026-01-06,20.0,BPCL,Public,0.716,2.31,1.8,25000,7,99.84,City,State Discom,Domestic
+Karnataka,Bengaluru,4W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,99.84,2026-01-06,20.0,BPCL,Public,0.716,0.716,0.8,400000,8,105.27361904761905,City,State Discom,Domestic
+Karnataka,Bengaluru,4W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,99.84,2026-01-06,20.0,BPCL,Public,0.716,2.31,3.5,75000,10,99.84,City,State Discom,Domestic
+Madhya Pradesh,Bhopal,2W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,106.47,2026-01-06,7.0,NTPC,Public,0.716,0.716,0.2,40000,5,105.27361904761905,City,State Discom,Domestic
+Madhya Pradesh,Bhopal,2W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,106.47,2026-01-06,7.0,NTPC,Public,0.716,2.31,1.2,15000,7,106.47,City,State Discom,Domestic
+Madhya Pradesh,Bhopal,3W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,106.47,2026-01-06,7.0,NTPC,Public,0.716,0.716,0.3,140000,5,105.27361904761905,City,State Discom,Domestic
+Madhya Pradesh,Bhopal,3W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,106.47,2026-01-06,7.0,NTPC,Public,0.716,2.31,1.8,25000,7,106.47,City,State Discom,Domestic
+Madhya Pradesh,Bhopal,4W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,106.47,2026-01-06,7.0,NTPC,Public,0.716,0.716,0.8,400000,8,105.27361904761905,City,State Discom,Domestic
+Madhya Pradesh,Bhopal,4W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,106.47,2026-01-06,7.0,NTPC,Public,0.716,2.31,3.5,75000,10,106.47,City,State Discom,Domestic
+Maharashtra,Mumbai,2W,ICE,8.8,As per tariff,2025-26,LT,Petrol,104.21,2026-01-06,0.0,State Agency,Public,0.716,2.31,1.2,15000,7,104.21,City,MERC (AEML/TPC-D),LT II (A) 0-20 kW
+Maharashtra,Mumbai,3W,ICE,8.8,As per tariff,2025-26,LT,Petrol,104.21,2026-01-06,0.0,State Agency,Public,0.716,2.31,1.8,25000,7,104.21,City,MERC (AEML/TPC-D),LT II (A) 0-20 kW
+Maharashtra,Mumbai,4W,ICE,8.8,As per tariff,2025-26,LT,Petrol,104.21,2026-01-06,0.0,State Agency,Public,0.716,2.31,3.5,75000,10,104.21,City,MERC (AEML/TPC-D),LT II (A) 0-20 kW
+Maharashtra,Pune,2W,EV,8.8,As per tariff,2025-26,LT,Petrol,103.88,2026-01-06,1.0,HPCL,Public,0.716,0.716,0.2,40000,5,105.27361904761905,City,State Discom,Domestic
+Maharashtra,Pune,2W,ICE,8.8,As per tariff,2025-26,LT,Petrol,103.88,2026-01-06,1.0,HPCL,Public,0.716,2.31,1.2,15000,7,103.88,City,State Discom,Domestic
+Maharashtra,Pune,3W,EV,8.8,As per tariff,2025-26,LT,Petrol,103.88,2026-01-06,1.0,HPCL,Public,0.716,0.716,0.3,140000,5,105.27361904761905,City,State Discom,Domestic
+Maharashtra,Pune,3W,ICE,8.8,As per tariff,2025-26,LT,Petrol,103.88,2026-01-06,1.0,HPCL,Public,0.716,2.31,1.8,25000,7,103.88,City,State Discom,Domestic
+Maharashtra,Pune,4W,EV,8.8,As per tariff,2025-26,LT,Petrol,103.88,2026-01-06,1.0,HPCL,Public,0.716,0.716,0.8,400000,8,105.27361904761905,City,State Discom,Domestic
+Maharashtra,Pune,4W,ICE,8.8,As per tariff,2025-26,LT,Petrol,103.88,2026-01-06,1.0,HPCL,Public,0.716,2.31,3.5,75000,10,103.88,City,State Discom,Domestic
+Odisha,Bhubaneswar,2W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,100.93,2026-01-06,0.0,State Agency,Public,0.716,2.31,1.2,15000,7,100.93,City,State Discom,Domestic
+Odisha,Bhubaneswar,3W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,100.93,2026-01-06,0.0,State Agency,Public,0.716,2.31,1.8,25000,7,100.93,City,State Discom,Domestic
+Odisha,Bhubaneswar,4W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,100.93,2026-01-06,0.0,State Agency,Public,0.716,2.31,3.5,75000,10,100.93,City,State Discom,Domestic
+Rajasthan,Jaipur,2W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,104.72,2026-01-06,3.0,HPCL,Public,0.716,0.716,0.2,40000,5,105.27361904761905,City,State Discom,Domestic
+Rajasthan,Jaipur,2W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,104.72,2026-01-06,3.0,HPCL,Public,0.716,2.31,1.2,15000,7,104.72,City,State Discom,Domestic
+Rajasthan,Jaipur,3W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,104.72,2026-01-06,3.0,HPCL,Public,0.716,0.716,0.3,140000,5,105.27361904761905,City,State Discom,Domestic
+Rajasthan,Jaipur,3W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,104.72,2026-01-06,3.0,HPCL,Public,0.716,2.31,1.8,25000,7,104.72,City,State Discom,Domestic
+Rajasthan,Jaipur,4W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,104.72,2026-01-06,3.0,HPCL,Public,0.716,0.716,0.8,400000,8,105.27361904761905,City,State Discom,Domestic
+Rajasthan,Jaipur,4W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,104.72,2026-01-06,3.0,HPCL,Public,0.716,2.31,3.5,75000,10,104.72,City,State Discom,Domestic
+Tamil Nadu,Chennai,2W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,100.85,2026-01-06,4.0,EESL,Public,0.716,0.716,0.2,40000,5,105.27361904761905,City,State Discom,Domestic
+Tamil Nadu,Chennai,2W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,100.85,2026-01-06,4.0,EESL,Public,0.716,2.31,1.2,15000,7,100.85,City,State Discom,Domestic
+Tamil Nadu,Chennai,3W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,100.85,2026-01-06,4.0,EESL,Public,0.716,0.716,0.3,140000,5,105.27361904761905,City,State Discom,Domestic
+Tamil Nadu,Chennai,3W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,100.85,2026-01-06,4.0,EESL,Public,0.716,2.31,1.8,25000,7,100.85,City,State Discom,Domestic
+Tamil Nadu,Chennai,4W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,100.85,2026-01-06,4.0,EESL,Public,0.716,0.716,0.8,400000,8,105.27361904761905,City,State Discom,Domestic
+Tamil Nadu,Chennai,4W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,100.85,2026-01-06,4.0,EESL,Public,0.716,2.31,3.5,75000,10,100.85,City,State Discom,Domestic
+Telangana,Hyderabad,2W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,107.41,2026-01-06,1.0,BPCL,Public,0.716,0.716,0.2,40000,5,105.27361904761905,City,State Discom,Domestic
+Telangana,Hyderabad,2W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,107.41,2026-01-06,1.0,BPCL,Public,0.716,2.31,1.2,15000,7,107.41,City,State Discom,Domestic
+Telangana,Hyderabad,3W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,107.41,2026-01-06,1.0,BPCL,Public,0.716,0.716,0.3,140000,5,105.27361904761905,City,State Discom,Domestic
+Telangana,Hyderabad,3W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,107.41,2026-01-06,1.0,BPCL,Public,0.716,2.31,1.8,25000,7,107.41,City,State Discom,Domestic
+Telangana,Hyderabad,4W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,107.41,2026-01-06,1.0,BPCL,Public,0.716,0.716,0.8,400000,8,105.27361904761905,City,State Discom,Domestic
+Telangana,Hyderabad,4W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,107.41,2026-01-06,1.0,BPCL,Public,0.716,2.31,3.5,75000,10,107.41,City,State Discom,Domestic
+Uttar Pradesh,Lucknow,2W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,94.69,2026-01-06,1.0,NTPC,Public,0.716,0.716,0.2,40000,5,105.27361904761905,City,State Discom,Domestic
+Uttar Pradesh,Lucknow,2W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,94.69,2026-01-06,1.0,NTPC,Public,0.716,2.31,1.2,15000,7,94.69,City,State Discom,Domestic
+Uttar Pradesh,Lucknow,3W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,94.69,2026-01-06,1.0,NTPC,Public,0.716,0.716,0.3,140000,5,105.27361904761905,City,State Discom,Domestic
+Uttar Pradesh,Lucknow,3W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,94.69,2026-01-06,1.0,NTPC,Public,0.716,2.31,1.8,25000,7,94.69,City,State Discom,Domestic
+Uttar Pradesh,Lucknow,4W,EV,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,94.69,2026-01-06,1.0,NTPC,Public,0.716,0.716,0.8,400000,8,105.27361904761905,City,State Discom,Domestic
+Uttar Pradesh,Lucknow,4W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,94.69,2026-01-06,1.0,NTPC,Public,0.716,2.31,3.5,75000,10,94.69,City,State Discom,Domestic
+West Bengal,Kolkata,2W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,103.94,2026-01-06,0.0,State Agency,Public,0.716,2.31,1.2,15000,7,103.94,City,State Discom,Domestic
+West Bengal,Kolkata,3W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,103.94,2026-01-06,0.0,State Agency,Public,0.716,2.31,1.8,25000,7,103.94,City,State Discom,Domestic
+West Bengal,Kolkata,4W,ICE,4.68,Estimated (Nat. Avg),2024-25,LT,Petrol,103.94,2026-01-06,0.0,State Agency,Public,0.716,2.31,3.5,75000,10,103.94,City,State Discom,Domestic
